@@ -1,0 +1,3 @@
+Onmtp-Ding05-mp3.zip : http://musicisvfr.com/free/se/ding01.html
+jquery-3.3.1.min.js : https://code.jquery.com/jquery-3.3.1.min.js
+

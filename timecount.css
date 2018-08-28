@@ -1,0 +1,52 @@
+body {
+	background-color: #000000;
+}
+
+
+div {
+	color: #ffffff;
+}
+
+#labelDate {
+	font-size: 5vh;
+}
+
+#curDate {
+	font-size: 30vh;
+}
+
+#status00 {
+	font-size: 10vh;
+}
+
+
+/* */
+#labelTitle {
+	font-size: 5vw;
+}
+
+#printTitle {
+	font-size: 5vw;
+}
+
+#printPresenter {
+	font-size: 5vw;
+}
+
+#status10 {
+	font-size: 5vw;
+}
+
+#status11 {
+	font-size: 5vw;
+}
+
+#status12 {
+	font-size: 5vw;
+}
+
+#printTime {
+	font-size: 30vw;
+	color: #80ff80;
+}
+
